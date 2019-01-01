@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1922379568",
+    "firebase_url": "https://cari-gerobak.firebaseio.com",
+    "project_id": "cari-gerobak",
+    "storage_bucket": "cari-gerobak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1922379568:android:0db6dc3f5b4be10a",
+        "android_client_info": {
+          "package_name": "com.shaukan.gabriel.carigerobak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1922379568-2g9ed50keuket22m9lmur36eqqr9248k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shaukan.gabriel.carigerobak",
+            "certificate_hash": "cbbb806ac73b342d66c3b0fb9e4342c58e17e7d3"
+          }
+        },
+        {
+          "client_id": "1922379568-lgtdfmteuh3ik6hbr1vh3qu5mc73lh75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ6RLi34QkQGkPQl26p4dxKWdj-8hjiGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1922379568-lgtdfmteuh3ik6hbr1vh3qu5mc73lh75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
