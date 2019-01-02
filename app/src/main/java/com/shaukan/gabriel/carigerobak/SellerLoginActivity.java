@@ -38,7 +38,7 @@ public class SellerLoginActivity extends AppCompatActivity {
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
                 FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
                 if(user !=null){
-                    Intent intent = new Intent(SellerLoginActivity.this, MapActivity.class);
+                    Intent intent = new Intent(SellerLoginActivity.this, SellerMapActivity.class);
                     startActivity(intent);
                     finish();
                     return;
